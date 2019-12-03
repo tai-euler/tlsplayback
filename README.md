@@ -7,6 +7,8 @@
 $ pip3 install termcolor
 ```
 
+https://www.youtube.com/watch?v=ZY-MYd_OvwE
+
 ## Usage
 
 ```
